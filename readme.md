@@ -1,19 +1,17 @@
 # 🚀 HackerRank Solutions 🚀
 
-This repository contains solutions to [HackerRank](https://www.hackerrank.com/) questions organized by programming language. Each language has its own folder, and within each folder, you will find topic wise solution for each problem.
-
-This repository contains solutions to HackerRank SQL questions organized by topic. Each topic has its own folder, and within each folder, you will find a file for each problem. The file name corresponds to the problem title and contains the solution.
+Discover the answers to various [HackerRank](https://www.hackerrank.com/) challenges sorted by programming languages. Navigate through specific folders dedicated to each language and explore topic-wise solutions.
 
 ## 📁 Directory Structure
 
 ```plaintext
 .
 ├── C/
-│   └── question_name.c
+│   └── example.c
 ├── Python/
-│   └── question_name.py
+│   └── example.py
 └── SQL/
-    └── query_name.sql
+    └── example.sql
 ```
 
 ## 📌 Languages Covered
@@ -28,4 +26,4 @@ While these solutions provide insights, I strongly recommend trying to solve the
 
 ## 🌟 Contribution
 
-Your feedback can make these solutions even better! Feel free to submit a PR or open an issue.
+Your feedback can make these solutions even better! Feel free to submit a Pull Request or open an issue.
